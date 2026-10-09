@@ -71,7 +71,7 @@ Wii U4 Pin5：GND → 基板「GND」
 実際の故障診断、基板の取り付け、動作確認、温度測定についてはYouTube動画で紹介しています。
 
 YouTube：
-（動画公開後にURLを記載）
+https://www.youtube.com/watch?v=n6EVO7u_gAU
 
 ## 注意事項
 
